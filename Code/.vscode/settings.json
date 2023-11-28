@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "ostream": "cpp",
+        "random": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "xmemory": "cpp",
+        "regex": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "utility": "cpp",
+        "xiosbase": "cpp",
+        "stack": "cpp",
+        "iostream": "cpp",
+        "ctime": "cpp",
+        "array": "cpp",
+        "vector": "cpp",
+        "iomanip": "cpp"
+    }
+}

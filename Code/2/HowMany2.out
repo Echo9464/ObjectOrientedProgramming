@@ -1,0 +1,14 @@
+HowMany2()
+	h:objectCount: 1
+Entering f()
+HowMany2(const HowMany2&)
+	hcopy:objectCount: 2
+x argument inside f()
+	hcopy:objectCount: 2
+Returning from f()
+HowMany2(const HowMany2&)
+	hcopycopy:objectCount: 3
+h2 after call to f()
+	hcopycopy:objectCount: 3
+Call f(),no return value
+After call to f()
